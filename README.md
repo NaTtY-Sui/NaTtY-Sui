@@ -1,13 +1,13 @@
 <HTML>
   <HEAD>
-    <TITLE>GITHUB  Profile</TITLE>
+   <!-- <title>GITHUB  Profile</title>-->
   </HEAD>
-  <BODY>
-    <P> - 👋 Hi, I’m @NaTtY-Sui </P>
-    <P> - 👀 I’m interested in Web Development, Blockchain and web 3.0</P>
-    <P> - 🌱 I’m currently learning Software Engineering</P>
-    <P> - 💞️ I’m looking to collaborate on Web Development Programs</P>
-    <P> - 📫 How to reach me nathnaelasfaw5@gmail.com</P>
+  <BODY style="background = powder blue">
+    <P style="font size = 20px"> - 👋 Hi, I’m @NaTtY-Sui </P>
+    <P style="font size = 20px"> - 👀 I’m interested in Web Development, Blockchain and web 3.0</P>
+    <P style="font size = 20px"> - 🌱 I’m currently learning Software Engineering</P>
+    <P style="font size = 20px"> - 💞️ I’m looking to collaborate on Web Development Programs</P>
+    <P style="font size = 20px"> - 📫 How to reach me nathnaelasfaw5@gmail.com</P>
   </BODY>
 </HTML> 
 
